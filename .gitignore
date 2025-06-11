@@ -1,0 +1,29 @@
+# Ignore Python virtual environment
+venv/
+ENV/
+env/
+*.pyc
+__pycache__/
+
+# Ignore dataset or model weight files (if any)
+*.h5
+*.hdf5
+*.pkl
+
+# Ignore image files generated at runtime
+*.jpg
+*.png
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/editor configs (if you're using any)
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
+
+# Ignore tensorflow generated directories
+.checkpoints/

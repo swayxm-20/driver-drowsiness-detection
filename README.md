@@ -10,11 +10,11 @@ This project implements a drowsiness detection system that monitors a driver's e
 
 ## Demo
 
-![Demo_eyes_open](demo\demo_open.png)
+![Demo_eyes_open](demo/demo_open.png)
 
-![Demo_eyes_closed](demo\demo_closed.png)
+![Demo_eyes_closed](demo/demo_closed.png)
 
-![Demo_eyes_closed_alarm](demo\demo_closed_alarm.png)
+![Demo_eyes_closed_alarm](demo/demo_closed_alarm.png)
 
 
 

@@ -195,8 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
+- **Author**: [Swayam Prakash]
+- **Email**: [swayam.prakash.ug23@nsut.ac.in]
 - **GitHub**: [@swayxm-20](https://github.com/swayxm-20)
 - **Project Link**: [https://github.com/swayxm-20/driver-drowsiness-detection](https://github.com/swayxm-20/driver-drowsiness-detection)
 
